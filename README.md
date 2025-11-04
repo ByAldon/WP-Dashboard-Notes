@@ -1,4 +1,4 @@
-<h1>Aldon Dashboard Notes</h1>
+<h1>Dashboard Notes</h1>
 
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
 
