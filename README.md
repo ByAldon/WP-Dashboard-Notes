@@ -6,7 +6,7 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 
 #
 ### Download your plugin here
-You can download your plugin [here](https://github.com/DevAldon/JOLT-Dashboard-Notes/archive/refs/heads/main.zip).<br>
+You can download your plugin [here](https://github.com/ByAldon/WP-Dashboard-Notes/raw/refs/heads/main/install/my-notes-plugin.zip).<br>
 You can read how to install [here](https://github.com/DevAldon/WordPress/wiki/How-to-install-the-plugins).
 #
 
