@@ -2,7 +2,7 @@
 
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
 
-All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/DevAldon/WordPress/blob/main/SECURITY.md).
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/ByAldon/WordPress/blob/main/SECURITY.md).
 
 #
 ### Download your plugin here
