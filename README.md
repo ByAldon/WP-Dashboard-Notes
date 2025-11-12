@@ -1,5 +1,9 @@
 <h1>Dashboard Notes</h1>
 
+![Dashboard Notes icon](https://github.com/user-attachments/assets/d8969e3a-0011-4215-a717-20ddc9236dda)
+![banner-1544x500](https://github.com/user-attachments/assets/a9d62c4c-8849-41ea-b2ec-1540aa651c26)
+
+
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
 
 All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/ByAldon/WordPress/blob/main/SECURITY.md).
