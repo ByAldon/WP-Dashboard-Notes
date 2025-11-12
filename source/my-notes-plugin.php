@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: JOLT Dashboard Notes
-Plugin URI: https://github.com/johnoltmans/JOLT-Dashboard-Notes
+Plugin Name: Aldon Dashboard Notes
+Plugin URI: https://github.com/ByAldon/WP-Dashboard-Notes
 Description: A simple plugin for personal notes in the admin dashboard.
 Version: 1.6
 Requires at least: 6.8
