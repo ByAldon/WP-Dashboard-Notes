@@ -10,7 +10,7 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 #
 ### Download your plugin here
 You can download your plugin [here](https://github.com/ByAldon/WP-Dashboard-Notes/raw/refs/heads/main/install/my-notes-plugin.zip).<br>
-You can read how to install [here](https://github.com/DevAldon/WordPress/wiki/How-to-install-the-plugins).
+You can read how to install [here](https://byaldon.github.io/Aldon-Wiki/#how-to-install-the-plugins).
 #
 
 ![446592348-b6cb1394-4798-4b17-b692-c92a7494e4bb](https://github.com/user-attachments/assets/1974cc3b-adfb-4464-bf94-014ec4453e86)
