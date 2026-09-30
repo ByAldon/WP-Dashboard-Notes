@@ -1,3 +1,5 @@
+## This application has been moved to another instance. No new updates will be posted here. Go to: https://github.com/ByAldon/I-am-leaving-github for more information.
+
 <h1>Dashboard Notes</h1>
 
 ![Dashboard Notes icon](https://github.com/user-attachments/assets/d8969e3a-0011-4215-a717-20ddc9236dda)
